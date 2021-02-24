@@ -1,4 +1,4 @@
-# Title: StevenBlack/hosts
+# Title: mylist
 #
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
@@ -40,4 +40,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 depedtambayan.org
 0.0.0.0 depedtambayan.net
 0.0.0.0 depedtambayanph.org
+0.0.0.0 depedtambayanph.net
+0.0.0.0 expressvpn.com
+0.0.0.0 nordvpn.com
+0.0.0.0 surfshark.com
+0.0.0.0 comparitech.com
+0.0.0.0 tunnelbear.com
+0.0.0.0 freedriverupdater.com
+
 
