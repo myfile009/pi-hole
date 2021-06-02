@@ -47,5 +47,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 comparitech.com
 0.0.0.0 tunnelbear.com
 0.0.0.0 freedriverupdater.com
-
+0.0.0.0 teachersclick.com
 
